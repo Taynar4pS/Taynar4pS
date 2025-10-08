@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Taynar4pS/Taynar4pS/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
