@@ -1,6 +1,6 @@
 <h1 align="left">About Me </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6827F5&size=35&center=true&vCenter=true&width=1000&lines=OII,+Meu+nome+é+Taynara+Paula;tenho+26+anos;Sou+Brasileira;Cientista+de+dados;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6827F5&size=35&center=true&vCenter=true&width=1000&lines=OII,+Meu+nome+é+Taynara+Paula;Tenho+26+anos;Sou+Brasileira;Cientista+de+dados;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ###
 
@@ -19,14 +19,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-  
-  ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 </div>
 
 ###
