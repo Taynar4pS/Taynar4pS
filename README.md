@@ -1,5 +1,6 @@
 <h1 align="left">About Me </h1>
-<h2 align="left"> Oi meu nome é Taynara </h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6827F5&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+Meu+nome+é+Taynara+Paula;tenho+26+anos;Sou+Brazileira;Cientista+de+dados;Seja+bem-vindo!+:%29)](htt ps://git.io/typing-svg)
 
 ###
 
@@ -21,6 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
+  
+  ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 </div>
 
 ###
