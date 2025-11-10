@@ -1,5 +1,5 @@
 <h1 align="left">About Me </h1>
-###
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6827F5&size=35&center=true&vCenter=true&width=1000&lines=OII,+Meu+nome+é+Taynara+Paula;tenho+26+anos;Sou+Brasileira;Cientista+de+dados;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ###
