@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🎓 Sou médica veterinária em transição de carreira para a área de tecnologia<br>💻 Interesses atuais: **Dados | QA (Qualidade de Software)| **<br>🌱 Aprendendo e explorando JavaScript, Git/GitHub, SQL e automação de testes<br>✨ Gosto de unir organização, lógica e criatividade nos meus projetos<br><br>🐾 Amo animais (sou tutora do Mini Gato e do Nev, meu hamster sírio)<br>🧘‍♀️ Gosto de atividades ao ar livre, yoga e meditação<br>🎯 Meu objetivo é construir uma carreira em TI que una propósito, equilíbrio e aprendizado contínuo</p>
+<p align="left">🎓 Sou médica veterinária em transição de carreira para a área de tecnologia<br>💻 Interesses atuais: **Dados**<br>🌱 Aprendendo e explorando JavaScript, Git/GitHub, SQL e automação de testes<br>✨ Gosto de unir organização, lógica e criatividade nos meus projetos<br><br>🐾 Amo animais (sou tutora do Mini Gato e do Nev, meu hamster sírio)<br>🧘‍♀️ Gosto de atividades ao ar livre, yoga e meditação<br>🎯 Meu objetivo é construir uma carreira em TI que una propósito, equilíbrio e aprendizado contínuo</p>
 
 ###
 
